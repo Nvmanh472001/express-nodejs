@@ -1,0 +1,6 @@
+[2023-02-09 09:52:32] [[31merror[39m] Error: TypeError: jobTrafficRepository.showListDoneJob is not a function
+    at showListDoneJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:199:20)
+    at Layer.handle [as handle_request] (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\route.js:137:13)
+    at checkAccessToken (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\requests\validate.user.js:112:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

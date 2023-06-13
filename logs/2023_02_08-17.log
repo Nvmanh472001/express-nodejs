@@ -1,0 +1,12 @@
+[2023-02-08 17:02:44] [[31merror[39m] Error: TypeError: jobTrafficRepository.showAllDetailedJob is not a function
+    at showAllDetailedJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:159:20)
+    at Layer.handle [as handle_request] (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\route.js:137:13)
+    at checkAccessToken (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\requests\validate.user.js:112:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 17:03:01] [[31merror[39m] Error: TypeError: jobTrafficRepository.showAllDetailedJob is not a function
+    at showAllDetailedJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:159:20)
+    at Layer.handle [as handle_request] (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\route.js:137:13)
+    at checkAccessToken (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\requests\validate.user.js:112:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

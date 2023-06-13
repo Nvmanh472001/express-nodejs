@@ -1,0 +1,6 @@
+[2023-02-07 16:44:42] [[31merror[39m] Error: ReferenceError: nodemailer is not defined
+    at forgotPassword (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\account\account.controller.js:168:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-07 16:53:54] [[31merror[39m] Error: ValidationError: otp: Cast to Number failed for value "null" (type string) at path "otp"
+    at register (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\account\account.controller.js:60:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

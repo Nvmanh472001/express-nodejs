@@ -1,0 +1,18 @@
+[2023-02-09 11:05:27] [[31merror[39m] Error: ValidationError: amountCoin: Path `amountCoin` is required., content: Path `content` is required.
+    at createTxHistory (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\money\money.controller.js:37:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-09 11:06:16] [[31merror[39m] Error: ValidationError: amountCoin: Path `amountCoin` is required., content: Path `content` is required.
+    at createTxHistory (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\money\money.controller.js:37:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-09 11:06:45] [[31merror[39m] Error: ValidationError: amount: Path `amount` is required.
+    at createTxHistory (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\money\money.controller.js:37:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-09 11:30:59] [[31merror[39m] Error: TypeError: Cannot read properties of null (reading '_id')
+    at createJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:45:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-09 11:44:57] [[31merror[39m] Error: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at createTxHistory (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\coin\coin.controller.js:57:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-09 11:51:07] [[31merror[39m] Error: TypeError: accountController.createTxHistory is not a function
+    at createJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:62:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

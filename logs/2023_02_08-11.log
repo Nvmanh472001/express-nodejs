@@ -1,0 +1,66 @@
+[2023-02-08 11:02:15] [[31merror[39m] Error: ValidationError: isDeleted: Path `isDeleted` is required., adsPostion: Path `adsPostion` is required., Language: Path `Language` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:02:28] [[31merror[39m] Error: ValidationError: isDeleted: Path `isDeleted` is required., adsPostion: Path `adsPostion` is required., Language: Path `Language` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:02:55] [[31merror[39m] Error: ValidationError: isDeleted: Path `isDeleted` is required., adsPostion: Path `adsPostion` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:04:48] [[31merror[39m] Error: ValidationError: isDeleted: Path `isDeleted` is required., adsPostion: Path `adsPostion` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:06:24] [[31merror[39m] Error: ValidationError: adsPostion: Path `adsPostion` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:06:42] [[31merror[39m] Error: ValidationError: adsPostion: Path `adsPostion` is required., timeZome: Path `timeZome` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:06:56] [[31merror[39m] Error: ValidationError: adsPostion: Path `adsPostion` is required., actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:07:15] [[31merror[39m] Error: ValidationError: actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:07:32] [[31merror[39m] Error: ValidationError: actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:08:13] [[31merror[39m] Error: ValidationError: actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:08:29] [[31merror[39m] Error: ValidationError: actionConfigName: Path `actionConfigName` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:10:20] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:10:40] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:10:58] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:11:00] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:11:01] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:11:20] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:11:44] [[31merror[39m] Error: ValidationError: name: Path `name` is required.
+    at saveDataActionConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:55:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:15:39] [[31merror[39m] Error: ReferenceError: config is not defined
+    at saveDataIpConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:83:20)
+    at Layer.handle [as handle_request] (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\node_modules\express\lib\router\route.js:137:13)
+    at checkAccessToken (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\requests\validate.user.js:106:5)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:16:33] [[31merror[39m] Error: ValidationError: isDeleted: Path `isDeleted` is required., ipName: Path `ipName` is required.
+    at saveDataIpConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:83:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-02-08 11:17:15] [[31merror[39m] Error: ValidationError: ipName: Path `ipName` is required.
+    at saveDataIpConfig (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\config\config.controller.js:85:20)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

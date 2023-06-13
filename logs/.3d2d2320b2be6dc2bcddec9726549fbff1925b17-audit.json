@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 10
+    },
+    "auditLog": "C:\\Users\\martg\\OneDrive\\Desktop\\AMAI AGENCY\\traffic-server\\logs\\.3d2d2320b2be6dc2bcddec9726549fbff1925b17-audit.json",
+    "files": [
+        {
+            "date": 1675757859517,
+            "name": "C:\\Users\\martg\\OneDrive\\Desktop\\AMAI AGENCY\\traffic-server\\logs\\2023_02_07-15.log",
+            "hash": "b3947ce81301b8220dd41b5a866bb4558ba8aa0e698ef13d85ec9f6dd5778971"
+        }
+    ],
+    "hashType": "sha256"
+}

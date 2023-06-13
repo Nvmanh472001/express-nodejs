@@ -1,0 +1,12 @@
+[2023-02-07 15:32:20] [[31merror[39m] Error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at register (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:58:20)
+[2023-02-07 15:52:35] [[31merror[39m] Error: Error: "expiresIn" should be a number of seconds or string representing a timespan
+    at login (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:128:20)
+[2023-02-07 15:53:30] [[31merror[39m] Error: Error: "expiresIn" should be a number of seconds or string representing a timespan
+    at login (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:128:20)
+[2023-02-07 15:54:11] [[31merror[39m] Error: Error: "expiresIn" should be a number of seconds or string representing a timespan
+    at login (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:128:20)
+[2023-02-07 15:54:57] [[31merror[39m] Error: Error: "expiresIn" should be a number of seconds or string representing a timespan
+    at login (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:128:20)
+[2023-02-07 15:56:07] [[31merror[39m] Error: ReferenceError: refreshToken is not defined
+    at login (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-server\controllers\account\account.controller.js:128:20)
