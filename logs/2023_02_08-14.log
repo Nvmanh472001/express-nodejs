@@ -1,3 +1,0 @@
-[2023-02-08 14:53:09] [[31merror[39m] Error: ValidationError: owner: Path `owner` is required.
-    at createJob (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\jobtraffic\jobtraffic.controller.js:36:20)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)

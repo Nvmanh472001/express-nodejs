@@ -1,3 +1,0 @@
-[2023-02-07 17:31:16] [[31merror[39m] Error: TypeError: moment.format is not a function
-    at forgotPassword (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\account\account.controller.js:177:20)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)

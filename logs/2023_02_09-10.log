@@ -1,3 +1,0 @@
-[2023-02-09 10:44:24] [[31merror[39m] Error: ValidationError: jobDetailId: Cast to ObjectId failed for value "" (type string) at path "jobDetailId", moneyHistoryId: Cast to ObjectId failed for value "" (type string) at path "moneyHistoryId"
-    at createTxHistory (C:\Users\martg\OneDrive\Desktop\AMAI AGENCY\traffic-tool-backend\controllers\coin\coin.controller.js:57:20)
-    at processTicksAndRejections (node:internal/process/task_queues:96:5)
